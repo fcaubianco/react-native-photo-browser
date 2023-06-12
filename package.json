@@ -1,0 +1,32 @@
+{
+  "name": "@fcaubianco/react-native-photo-browser",
+  "version": "0.7.0",
+  "description": "Local and remote photo browser with captions, selections and grid view support for react native.",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "photo browser",
+    "image gallery",
+    "media gallery",
+    "ios",
+    "android"
+  ],
+  "main": "lib/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcaubianco/react-native-photo-browser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fcaubianco/react-native-photo-browser.git"
+  },
+  "author": "Halil Bilir <hbilir@gmail.com>",
+  "homepage": "https://github.com/fcaubianco/react-native-photo-browser.git",
+  "dependencies": {
+    "react-native-iphone-x-helper": "^1.2.1",
+    "react-native-progress": "^4.1.2",
+    "prop-types": "15.5.10"
+  }
+}
